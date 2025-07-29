@@ -1,7 +1,7 @@
 from openai import AzureOpenAI
 
 client = AzureOpenAI(
-    api_key="9tVpDob9HE1Bp227jVXd3halsscb8bjAKRKlYxYyKRrsJFoKT25dJQQJ99BGACYeBjFXJ3w3AAABACOGF9Kf",
+    api_key="",
     api_version="2024-12-01-preview",
     azure_endpoint="https://witragopenaitest.openai.azure.com/"
 )
