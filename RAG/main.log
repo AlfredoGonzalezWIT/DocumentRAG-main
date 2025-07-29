@@ -1,0 +1,578 @@
+2025-07-23 10:44:33,470 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-23 10:44:33,475 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-23 10:44:33,718 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-23 10:44:33,737 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-23 10:44:33,882 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-23 10:44:33,884 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-23 10:44:33,941 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-23 10:44:33,948 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-23 10:44:34,039 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-23 10:44:34,041 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-23 10:44:34,085 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-23 10:44:34,090 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-23 11:03:04,232 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-23 11:03:04,235 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-23 11:03:04,428 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-23 11:03:04,431 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-23 11:03:04,480 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-23 11:03:04,485 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-23 11:03:04,519 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-23 11:03:04,526 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-23 11:03:04,571 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-23 11:03:04,576 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-23 11:03:04,601 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-23 11:03:04,608 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-23 11:03:18,218 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-23 11:03:18,221 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-23 11:03:18,476 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-23 11:03:18,480 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-23 11:03:18,559 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-23 11:03:18,562 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-23 11:03:18,572 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-23 11:03:18,575 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-23 11:03:18,610 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-23 11:03:18,612 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-23 11:03:18,620 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-23 11:03:18,622 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-23 11:07:08,111 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-23 11:07:09,239 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 11:07:09,243 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 11:07:09,506 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-23 11:07:09,558 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 11:07:09,559 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 11:07:09,599 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-23 11:07:09,647 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 11:07:09,648 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 11:07:09,657 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-23 11:07:09,709 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 11:07:09,710 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 11:07:09,735 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-23 11:07:09,792 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 11:07:09,795 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 11:07:09,818 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-23 11:07:09,872 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 11:07:09,875 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 11:15:46,568 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-23 11:15:47,360 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 11:15:47,364 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 11:15:47,558 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-23 11:15:47,610 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 11:15:47,612 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 11:15:47,703 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-23 11:15:47,789 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 11:15:47,791 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 11:15:47,821 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-23 11:15:47,877 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 11:15:47,878 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 11:15:47,899 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-23 11:15:48,022 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 11:15:48,023 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 11:15:48,039 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-23 11:15:48,091 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 11:15:48,094 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 12:35:12,469 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-23 12:35:13,535 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 12:35:13,539 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 12:35:13,789 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-23 12:35:13,851 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 12:35:13,854 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 12:35:13,969 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-23 12:35:14,017 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 12:35:14,021 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 12:35:14,084 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-23 12:35:14,140 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 12:35:14,143 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 12:35:14,203 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-23 12:35:14,249 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 12:35:14,250 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 12:35:14,285 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-23 12:35:14,339 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 12:35:14,342 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 13:04:38,157 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-23 13:04:39,124 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 13:04:39,131 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 13:04:39,333 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-23 13:04:39,382 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 13:04:39,384 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 13:04:39,442 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-23 13:04:39,490 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 13:04:39,494 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 13:04:39,526 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-23 13:04:39,576 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 13:04:39,578 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 13:04:39,623 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-23 13:04:39,671 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 13:04:39,673 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 13:04:39,695 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-23 13:04:39,742 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 13:04:39,743 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 13:09:56,004 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-23 13:09:58,079 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 13:09:58,084 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 13:09:58,333 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-23 13:09:58,390 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 13:09:58,393 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 13:09:58,492 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-23 13:09:58,544 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 13:09:58,546 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 13:09:58,570 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-23 13:09:58,626 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 13:09:58,628 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 13:09:58,648 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-23 13:09:58,695 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 13:09:58,696 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 13:09:58,717 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-23 13:09:58,786 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 13:09:58,789 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 13:14:50,519 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-23 13:14:51,322 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 13:14:51,325 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 13:14:51,535 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-23 13:14:51,589 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 13:14:51,592 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 13:14:51,652 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-23 13:14:51,703 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 13:14:51,705 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 13:14:51,715 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-23 13:14:51,769 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 13:14:51,772 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 13:14:51,813 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-23 13:14:51,869 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 13:14:51,871 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 13:14:51,879 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-23 13:14:51,930 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 13:14:51,931 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 14:24:42,946 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-23 14:24:43,848 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 14:24:43,852 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 14:24:44,142 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-23 14:24:44,209 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 14:24:44,213 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 14:24:44,320 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-23 14:24:44,368 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 14:24:44,370 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 14:24:44,396 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-23 14:24:44,450 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 14:24:44,453 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 14:24:44,476 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-23 14:24:44,526 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 14:24:44,527 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-23 14:24:44,539 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-23 14:24:44,589 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-23 14:24:44,592 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 13:08:54,051 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-24 13:08:55,145 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 13:08:55,149 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 13:08:55,409 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-24 13:08:55,460 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 13:08:55,461 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 13:08:55,590 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-24 13:08:55,638 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 13:08:55,641 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 13:08:55,701 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-24 13:08:55,751 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 13:08:55,754 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 13:08:55,840 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-24 13:08:55,897 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 13:08:55,900 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 13:08:55,964 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-24 13:08:56,013 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 13:08:56,015 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:00:27,413 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-24 14:00:28,544 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 14:00:28,546 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:00:28,792 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-24 14:00:28,847 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 14:00:28,849 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:00:28,924 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-24 14:00:28,974 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 14:00:28,976 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:00:28,996 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-24 14:00:29,045 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 14:00:29,048 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:00:29,099 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-24 14:00:29,155 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 14:00:29,157 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:00:29,184 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-24 14:00:29,233 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 14:00:29,235 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:10:35,186 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-24 14:10:37,432 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 14:10:37,435 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:10:37,674 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-24 14:10:37,728 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 14:10:37,731 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:10:37,830 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-24 14:10:37,891 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 14:10:37,893 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:10:37,917 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-24 14:10:37,967 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 14:10:37,970 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:10:37,994 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-24 14:10:38,051 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 14:10:38,054 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:10:38,080 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-24 14:10:38,133 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 14:10:38,136 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:11:01,714 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-24 14:11:02,508 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 14:11:02,511 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:11:02,694 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-24 14:11:02,750 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 14:11:02,753 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:11:02,856 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-24 14:11:02,908 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 14:11:02,910 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:11:02,932 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-24 14:11:02,987 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 14:11:02,989 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:11:03,014 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-24 14:11:03,066 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 14:11:03,068 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:11:03,090 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-24 14:11:03,144 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/embeddings "HTTP/1.1 404 Resource Not Found"
+2025-07-24 14:11:03,147 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': Error code: 404 - {'error': {'code': '404', 'message': 'Resource not found'}}
+2025-07-24 14:15:29,829 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-24 14:15:31,094 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:15:31,558 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:15:31,863 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-24 14:15:32,021 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 400 model_error"
+2025-07-24 14:15:32,026 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': Error code: 400 - {'error': {'message': "This model's maximum context length is 8192 tokens, however you requested 14533 tokens (14533 in your prompt; 0 for the completion). Please reduce your prompt; or completion length.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-07-24 14:15:32,153 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-24 14:15:32,296 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:15:32,667 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:15:32,682 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-24 14:15:32,936 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:15:33,335 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:15:33,382 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-24 14:15:33,652 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:15:33,975 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:15:33,990 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-24 14:15:34,104 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:15:34,432 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:26:14,189 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-24 14:26:15,401 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:26:15,883 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:26:16,104 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-24 14:26:16,262 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 400 model_error"
+2025-07-24 14:26:16,266 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': Error code: 400 - {'error': {'message': "This model's maximum context length is 8192 tokens, however you requested 14533 tokens (14533 in your prompt; 0 for the completion). Please reduce your prompt; or completion length.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-07-24 14:26:16,349 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-24 14:26:16,525 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:26:16,856 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:26:16,875 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-24 14:26:17,031 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:26:17,366 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:26:17,390 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-24 14:26:17,651 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:26:17,979 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:26:18,003 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-24 14:26:18,123 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:26:18,461 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:27:45,095 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-24 14:27:46,333 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:27:50,465 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:27:50,778 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-24 14:27:50,958 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 400 model_error"
+2025-07-24 14:27:50,963 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': Error code: 400 - {'error': {'message': "This model's maximum context length is 8192 tokens, however you requested 14533 tokens (14533 in your prompt; 0 for the completion). Please reduce your prompt; or completion length.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-07-24 14:27:51,055 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-24 14:27:51,350 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:27:51,682 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:27:51,716 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-24 14:27:51,965 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:27:52,313 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:27:52,340 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-24 14:27:52,577 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:27:52,925 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:27:52,952 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-24 14:27:53,081 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:27:53,399 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:28:16,795 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-24 14:28:18,178 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:28:18,575 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:28:18,836 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-24 14:28:18,989 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 400 model_error"
+2025-07-24 14:28:18,993 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': Error code: 400 - {'error': {'message': "This model's maximum context length is 8192 tokens, however you requested 14533 tokens (14533 in your prompt; 0 for the completion). Please reduce your prompt; or completion length.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-07-24 14:28:19,096 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-24 14:28:19,244 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:28:19,579 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:28:19,607 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-24 14:28:19,762 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:28:20,086 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:28:20,105 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-24 14:28:20,329 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:28:20,662 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 14:28:20,671 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-24 14:28:20,788 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 14:28:21,128 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 16:00:05,142 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-24 16:00:06,334 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 16:00:06,757 - ERROR - Error processing 'ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 16:00:06,945 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-24 16:00:07,355 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 400 model_error"
+2025-07-24 16:00:07,359 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': Error code: 400 - {'error': {'message': "This model's maximum context length is 8192 tokens, however you requested 14533 tokens (14533 in your prompt; 0 for the completion). Please reduce your prompt; or completion length.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-07-24 16:00:07,437 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-24 16:00:07,584 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 16:00:07,905 - ERROR - Error processing 'Attachment F- DWIHN REVISED CCM Brochure.pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 16:00:07,915 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-24 16:00:10,221 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 16:00:10,562 - ERROR - Error processing 'Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 16:00:10,587 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-24 16:00:10,837 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 16:00:11,170 - ERROR - Error processing 'Memo to CRSP re AOT Requirements 6-24-22.pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-24 16:00:11,190 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-24 16:00:12,289 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-24 16:00:12,608 - ERROR - Error processing 'wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf': 400 Client Error: Bad Request for url: https://witragtest.search.windows.net/indexes/knowledge-index/docs/index?api-version=2024-07-01
+2025-07-25 11:56:23,977 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-25 11:56:25,003 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:56:25,010 - INFO - Successfully indexed: ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020)
+2025-07-25 11:56:25,467 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-25 11:56:25,629 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 400 model_error"
+2025-07-25 11:56:25,634 - ERROR - Error processing 'Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf': Error code: 400 - {'error': {'message': "This model's maximum context length is 8192 tokens, however you requested 14533 tokens (14533 in your prompt; 0 for the completion). Please reduce your prompt; or completion length.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-07-25 11:56:25,745 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-25 11:56:25,887 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:56:25,888 - INFO - Successfully indexed: Attachment F- DWIHN REVISED CCM Brochure
+2025-07-25 11:56:25,920 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-25 11:56:26,092 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:56:26,094 - INFO - Successfully indexed: Deferral Conference Process for Inpatient Hospitals and CRSPS 
+2025-07-25 11:56:26,160 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-25 11:56:26,434 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:56:26,436 - INFO - Successfully indexed: Memo to CRSP re AOT Requirements 6-24-22
+2025-07-25 11:56:26,501 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-25 11:56:26,741 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:56:26,744 - INFO - Successfully indexed: wcpc366 Notification of Completed and Filed CM Plan - Copy
+2025-07-25 11:59:45,302 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-25 11:59:46,143 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:46,293 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:46,435 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:46,628 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:46,738 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:47,017 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-25 11:59:47,173 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:47,328 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:47,490 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:47,641 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:47,804 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:47,951 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:48,095 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:48,265 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:48,407 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:48,554 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:48,699 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:48,859 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:49,006 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:49,155 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:49,349 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:49,490 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:49,646 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:49,794 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:49,934 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:49,987 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-25 11:59:50,134 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:50,155 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-25 11:59:50,308 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:50,448 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:50,499 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-25 11:59:50,669 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:50,929 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:51,050 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 11:59:51,065 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-25 11:59:51,178 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:03,165 - INFO - Extracted text from 'RAG\pdfs\ATTACHMENT A - CRSP Responsibilities.pdf (05.11.2020).pdf'
+2025-07-29 11:14:03,949 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:04,107 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:04,285 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:04,431 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:04,554 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:04,951 - INFO - Extracted text from 'RAG\pdfs\Attachment B-MI Supreme Court Memo SCAO MH ADdtl Forms-Modifications 062221.pdf'
+2025-07-29 11:14:05,112 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:05,266 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:05,457 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:07,488 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:07,654 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:07,863 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:08,051 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:08,218 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:08,378 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:08,533 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:08,985 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:09,186 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:09,341 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:09,493 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:09,651 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:09,832 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:09,976 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:10,139 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:10,300 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:10,426 - INFO - Extracted text from 'RAG\pdfs\Attachment F- DWIHN REVISED CCM Brochure.pdf'
+2025-07-29 11:14:10,574 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:10,615 - INFO - Extracted text from 'RAG\pdfs\Deferral Conference Process for Inpatient Hospitals and CRSPS .pdf'
+2025-07-29 11:14:10,760 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:10,902 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:10,997 - INFO - Extracted text from 'RAG\pdfs\Memo to CRSP re AOT Requirements 6-24-22.pdf'
+2025-07-29 11:14:11,160 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:11,315 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:11,631 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-29 11:14:11,693 - INFO - Extracted text from 'RAG\pdfs\wcpc366 Notification of Completed and Filed CM Plan - Copy.pdf'
+2025-07-29 11:14:11,841 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"

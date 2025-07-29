@@ -1,31 +1,30 @@
 # embedding_helper.py
 
 import os
-import openai
 from dotenv import load_dotenv
+from openai import AzureOpenAI
 
 class EmbeddingHelper:
     def __init__(self, env_file: str = "local.env"):
         """
-        Initializes the EmbeddingHelper by loading environment variables from a specified file.
-        
-        :param env_file: Path to the environment variables file (default: "local.env")
+        Initializes the EmbeddingHelper by loading environment variables and configuring the Azure OpenAI client.
         """
         load_dotenv(dotenv_path=env_file)
-        
-        self.api_type = "azure"
-        self.api_base = os.getenv("AZURE_OPENAI_ENDPOINT")
-        self.api_version = os.getenv("AZURE_OPENAI_API_VERSION", "2023-03-15-preview")
+
         self.api_key = os.getenv("AZURE_OPENAI_API_KEY")
-        self.engine = os.getenv("AZURE_OPENAI_ENGINE", "text-embedding-ada-002")
-        
-        if not all([self.api_base, self.api_key, self.engine]):
+        self.endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")  # e.g. https://<resource>.openai.azure.com
+        self.model = os.getenv("AZURE_OPENAI_ENGINE")   # This must be your DEPLOYMENT NAME
+        self.api_version = os.getenv("AZURE_OPENAI_API_VERSION", "2024-02-15-preview")
+
+        if not all([self.api_key, self.endpoint, self.model, self.api_version]):
             raise ValueError("Azure OpenAI configuration is incomplete. Please check your local.env file.")
-        
-        openai.api_type = self.api_type
-        openai.api_base = self.api_base
-        openai.api_version = self.api_version
-        openai.api_key = self.api_key
+
+        # Azure OpenAI client
+        self.client = AzureOpenAI(
+            api_key=self.api_key,
+            azure_endpoint=self.endpoint,
+            api_version=self.api_version
+        )
 
     def get_embedding(self, text: str) -> list:
         """
@@ -35,12 +34,11 @@ class EmbeddingHelper:
         :return: A list of floats representing the embedding vector.
         """
         try:
-            response = openai.Embedding.create(
-                input=[text],
-                engine=self.engine
+            response = self.client.embeddings.create(
+                input=text,
+                model=self.model  # This is your Azure deployment name
             )
-            embedding = response["data"][0]["embedding"]
-            return embedding
+            return response.data[0].embedding
         except Exception as e:
             print(f"Error generating embedding: {e}")
             raise

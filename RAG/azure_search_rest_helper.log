@@ -1,0 +1,6 @@
+2025-07-22 16:17:16,990 - ERROR - Index definition file 'RAG/index_definition.json' not found.
+2025-07-22 16:17:54,304 - ERROR - Index definition file 'RAG/index_definition.json' not found.
+2025-07-22 16:19:36,332 - INFO - Loaded index definition from 'RAG/index_definition.json'.
+2025-07-22 16:19:37,851 - INFO - Index 'knowledge-index' created/updated successfully.
+2025-07-24 15:54:50,336 - INFO - Loaded index definition from 'RAG/index_definition.json'.
+2025-07-24 15:54:51,920 - INFO - Index 'knowledge-index' created/updated successfully.

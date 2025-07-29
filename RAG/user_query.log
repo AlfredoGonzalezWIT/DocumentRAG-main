@@ -1,0 +1,23 @@
+2025-07-25 13:02:06,705 - INFO - \u2705 Environment variables loaded.
+2025-07-25 13:02:33,439 - INFO - HTTP Request: POST https://witragopenaitest.openai.azure.com/openai/deployments/text-embedding-model/embeddings?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-07-25 13:02:33,460 - ERROR - \u274c Error generating response:
+Traceback (most recent call last):
+  File "c:\Projects\RAG\DocumentRAG-main\user_query.py", line 60, in generate_answer_with_openai_chat
+    response = openai.ChatCompletion.create(
+        engine=os.getenv("OPENAI_CHAT_MODEL", "gpt-4"),
+    ...<3 lines>...
+        n=1
+    )
+  File "c:\Users\Alfredo Gonzalez\AppData\Local\Programs\Python\Python313\Lib\site-packages\openai\lib\_old_api.py", line 39, in __call__
+    raise APIRemovedInV1(symbol=self._symbol)
+openai.lib._old_api.APIRemovedInV1: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+
