@@ -3,7 +3,7 @@ from openai import AzureOpenAI
 client = AzureOpenAI(
     api_key="",
     api_version="2024-12-01-preview",
-    azure_endpoint="https://witragopenaitest.openai.azure.com/"
+    azure_endpoint=""
 )
 
 response = client.embeddings.create(
