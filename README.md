@@ -1,56 +1,154 @@
-# RAG Implementation with Azure AI Search and Azure OpenAI
+# DocumentRAG: Retrieval-Augmented Generation with FAISS and Azure OpenAI
 
-This repository demonstrates how to build a Retrieval-Augmented Generation (RAG) chatbot using Azure AI Search for document retrieval and OpenAI's GPT models for generating responses. The chatbot includes:
-- **Index setup**
-- **Document embedding and indexing**
-- **User-specific data filtering**
-- **Short-term memory for conversation history**
+This project demonstrates how to build a **Retrieval-Augmented Generation (RAG)** chatbot that:
 
-## Features
-- Embeds documents into Azure Cognitive Search for vector search.
-- Filters results by user ID to ensure secure and relevant data access.
-- Maintains short-term memory of the conversation for context-aware responses.
+* Extracts and embeds text from PDF documents
+* Indexes document chunks with **FAISS**
+* Uses **Azure OpenAI** to answer user queries based on retrieved document chunks
 
-## Prerequisites
-1. Python 3.8 or higher
-2. Azure AI Search resource
-3. Azure OpenAI resource
-4. Install Python dependencies
+---
 
-## Setup
-1. Clone the Repository  
-2. Set Up Environment Variables  
-Create a file named local.env in the root directory with the following content:  
-ACS_ENDPOINT=[Your Azure Cognitive Search Endpoint]
-ACS_API_KEY=[Your Azure Cognitive Search API Key]  
-ACS_INDEX_NAME=knowledge-index  
-AZURE_OPENAI_ENDPOINT=[Your Azure OpenAI Endpoint]  
-AZURE_OPENAI_API_KEY=[Your Azure OpenAI API Key]   
-AZURE_OPENAI_ENGINE=text-embedding-ada-002 (based on what model you deploy in your Azure OpenAI)   
-OPENAI_CHAT_MODEL=gpt-4 (based on what model you deploy in your Azure OpenAI)  
-CURRENT_USER_ID=userXYZ  
-3. Prepare the Index   
-Run the setup_index.py script to create or update the Azure Cognitive Search index:   
-python setup_index.py   
-4. Add Documents   
-Prepare your document data in document.json for embedding and indexing. Use the main.py script to process and index the documents:   
-python main.py   
-5. Ask Questions   
-6. Prepare your prompt in the query.txt and use the user_query.py script to query the chatbot:   
-python user_query.py   
+## 🚀 Features
 
-## File Overview
-### azure_vector_helper.py: 
-Manages Azure Cognitive Search REST API interactions for creating and updating the index.
-### embedding_helper.py: 
-Generates embeddings using Azure OpenAI.
-### flatten_helper.py: 
-Serializes structured documents into plain text for embedding.
-### indexing_helper.py: 
-Handles adding documents to the Azure Cognitive Search index.
-### search_helper.py: 
-Retrieves documents using vector search, filtered by user ID.
-### main.py: 
-Processes and indexes documents.
-### user_query.py: 
-Manages chatbot interactions and maintains conversation history.
+* PDF ingestion and text chunking
+* Embedding generation using Azure OpenAI
+* Similarity search with FAISS vector index
+* OpenAI chat-based response generation
+* Command-line chatbot interface
+
+---
+
+## 🛠️ Requirements
+
+* Python 3.9+
+* Azure OpenAI resource with deployed embedding and chat models
+* FAISS library
+
+### 🔧 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/AlfredoGonzalezWIT/DocumentRAG-main.git
+cd DocumentRAG-main
+
+# Create a virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+---
+
+## 🧪 Example .env File (`local.env`)
+
+```
+AZURE_OPENAI_ENDPOINT=https://<your-resource>.openai.azure.com
+AZURE_OPENAI_API_KEY=your-api-key-here
+AZURE_OPENAI_ENGINE=text-embedding-model-deployment-name
+OPENAI_COMPLETION_MODEL=gpt-4-chat-deployment-name
+AZURE_OPENAI_API_VERSION=2024-12-01-preview
+CURRENT_USER_ID=your-email@example.com
+```
+
+---
+
+## 📁 Folder Structure
+
+```
+DocumentRAG-main/
+├── RAG/
+│   ├── pdfs/                   # PDF documents to ingest
+│   ├── main.log                # Runtime logs
+│   └── ...
+├── main.py                    # Indexes PDF documents
+├── user_query.py              # CLI chatbot
+├── embedding_helper.py        # Embedding using Azure OpenAI
+├── faiss_indexing_helper.py   # FAISS vector index management
+├── local.env                  # Environment variables
+├── vector.index               # FAISS index file
+├── documents.pkl              # Metadata for indexed chunks
+```
+
+---
+
+## 📥 Step-by-Step Tutorial
+
+### 1. Prepare Your Azure OpenAI Deployment
+
+* Deploy an **embedding model** (e.g. `text-embedding-3-large`)
+* Deploy a **chat model** (e.g. `gpt-4` or `gpt-35-turbo`)
+* Copy the deployment names and fill in your `local.env`
+
+### 2. Add PDF Files
+
+Place PDF documents inside the `RAG/pdfs/` folder.
+
+### 3. Run the Indexer
+
+```bash
+python main.py
+```
+
+This will:
+
+* Extract text from each PDF
+* Chunk it into \~3000 character blocks
+* Generate embeddings for each chunk
+* Save vectors and metadata into FAISS index
+
+### 4. Start the Chatbot
+
+```bash
+python user_query.py
+```
+
+You can now ask questions like:
+
+```
+What are the responsibilities of CRPS?
+Summarize the key terms from the onboarding policy.
+```
+
+The assistant will:
+
+* Embed your query
+* Perform a similarity search over FAISS index
+* Use top results as context
+* Send to OpenAI chat completion
+
+---
+
+## 🧼 Resetting the Index
+
+To re-index documents from scratch:
+
+```bash
+rm vector.index documents.pkl
+python main.py
+```
+
+---
+
+## 📚 Credits
+
+* [FAISS](https://github.com/facebookresearch/faiss)
+* [Azure OpenAI](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/)
+
+---
+
+## 📌 Next Steps
+
+* Add web or GUI interface
+* Enable support for other file types (DOCX, TXT)
+* Use LangChain or LlamaIndex for more flexibility
+* Support long-term conversation memory
+
+---
+
+## 🧠 Maintainer
+
+**Alfredo Gonzalez**
+WIT Inc.
+Email: [agonalez@witinc.com](mailto:agonalez@witinc.com)
